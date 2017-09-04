@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Leads</string>
+    <string name="title_activity_main">Lista de entrevistados</string>
+    <string name="title_activity_cadastro">Cadastrar entrevistado</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_Telefone">Telefone</string>
+    <string name="title_menu_cadastrar">Cadastrar</string>
+    <string name="title_menu_cancelar">Cancelar</string>
+    <string name="message_preencher_campos">Preencha todos os campos.</string>
+    <string name="message_conexaodb_sucesso">Conexão criada com sucesso!</string>
+    <string name="action_ok">OK</string>
+    <string name="title_erro">Erro</string>
+    <string name="delete">Deletar</string>
+    <string name="edit">Editar</string>
+    <string name="title_activity_entrevistado_editar">Editar entrevistado</string>
+    <string name="title_menu_editar">Editar</string>
+</resources>
